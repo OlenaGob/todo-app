@@ -1,12 +1,5 @@
 # Todo App
 
-## Prerequisites
-
-Before running the project, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (vX.X.X or higher)
-- [npm](https://www.npmjs.com/) (vX.X.X or higher)
-
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
@@ -14,8 +7,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/OlenaGob/todo-app.git
+cd todo-app
 ```
 
 ### 2. Create a .env file
