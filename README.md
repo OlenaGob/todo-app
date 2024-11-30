@@ -23,9 +23,6 @@ VITE_API_KEY=your_api_key_here
 
 Run the following command to install all required dependencies:
 
-bash
-Copy code
-
 ```bash
 npm install
 ```
